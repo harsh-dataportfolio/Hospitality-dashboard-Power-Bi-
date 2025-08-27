@@ -20,7 +20,7 @@ This project involves building an **interactive dashboard** that visualizes key 
 ---
 
 ## 📂 Dataset Used  
-The dataset is sourced from **[Codebasics.io](https://codebasics.io/)** and consists of **5 CSV files**:  
+The dataset is sourced from **[Codebasics.io](https://codebasics.io/)** and consists of A Metrics List File and **5 CSV files**:  
 
 1. **dim_date** – Contains details of dates, weeks, and day type (Weekday/Weekend).  
 2. **dim_hotels** – Provides hotel details (ID, Name, City, Category).  
@@ -39,7 +39,7 @@ The dataset is sourced from **[Codebasics.io](https://codebasics.io/)** and cons
 
 ## 📊 Key Insights  
 1. **Overall Performance**  
-   - Mumbai properties stand out as the top performers across revenue, RevPAR, occupancy, ADR, DSRN, realization, and cancellations. They also hold the highest customer rating (~4.3). However, with a low rating of (~2.3) also present, there is an opportunity to Improve guest experience to further strengthen Mumbai’s leadership position.
+   - Mumbai properties stand out as the top performers across KPI's like revenue, RevPAR, occupancy, ADR, DSRN, realization, and cancellations. They also hold the highest customer rating (~4.3). However, with a low rating of (~2.3) also present, there is an opportunity to Improve guest experience to further strengthen Mumbai’s leadership position.
      
 2. **Revenue Distribution**  
    - Business category hotels contribute ~62% of total revenue, while Luxury accounts for ~38%.  
