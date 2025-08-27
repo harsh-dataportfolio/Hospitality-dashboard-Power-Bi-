@@ -39,8 +39,8 @@ The dataset is sourced from **[Codebasics.io](https://codebasics.io/)** and cons
 
 ## 📊 Key Insights  
 1. **Overall Performance**  
-   - Mumbai properties are the best pe
-   - 
+   - Mumbai properties stand out as the top performers across revenue, RevPAR, occupancy, ADR, DSRN, realization, and cancellations. They also hold the highest customer rating (~4.3). However, with a low rating of (~2.3) also present, there is an opportunity to Improve guest experience to further strengthen Mumbai’s leadership position.
+     
 2. **Revenue Distribution**  
    - Business category hotels contribute ~62% of total revenue, while Luxury accounts for ~38%.  
    - Mumbai properties generate the **highest revenue of more than 660M** among all cities.
